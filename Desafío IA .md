@@ -33,17 +33,24 @@ Ejm: el 23 de abril Pepito Perez recibe el datafono con placa ABCD pero ese equi
 - Eficiencia en la Toma de Decisiones: Los formularios procesados automáticamente y sin errores facilitan la toma de decisiones basadas en datos precisos y completos.
 
 ## comparativa entre procesos:
-Criterio | Proceso Tradicional | Proceso Potenciado por IA
-Velocidad | Lento, ya que requiere revisión manual de cada formulario. | Rápido, ya que la IA valida los formularios automáticamente en tiempo real.
-Precisión | Sujeto a errores humanos, como omitir validaciones o pasar por alto detalles. | Alta precisión, ya que la IA sigue reglas estrictas y detecta errores de manera consistente.
-Eficiencia Operativa | Requiere un equipo de personas para revisar y corregir cada formulario. | Reduce la necesidad de intervención humana, mejorando la eficiencia operativa.
-Escalabilidad | Difícil de escalar sin aumentar significativamente el personal. | Altamente escalable, la IA puede manejar grandes volúmenes de formularios sin necesidad de recursos adicionales.
-Reducción de Costos | Costos laborales más altos debido a la necesidad de empleados humanos. | Menores costos operativos al automatizar el proceso de validación.
-Experiencia del Usuario | Los usuarios pueden tener que corregir manualmente los errores detectados. | Los usuarios reciben retroalimentación instantánea sobre errores y pueden corregirlos de inmediato.
-Consistencia | La revisión puede ser inconsistente, dependiendo de la interpretación de cada revisor. | Alta consistencia, ya que la IA aplica las mismas reglas de validación a todos los formularios.
-Tiempo de Respuesta | Los tiempos de respuesta son más largos debido a la validación manual. | Respuestas instantáneas o en tiempo real, mejorando la fluidez del proceso.
-Manejo de Errores Complejos | Errores complejos requieren intervención humana adicional, lo que ralentiza el proceso. | La IA puede detectar y sugerir correcciones automáticas para errores complejos como transposiciones de números o direcciones incorrectas.
-
+------------------------------------------------------------------------------------------------------
+CRITERIO    |          PROCESO TRADICIONAL        |               PROCESO CON IA                      |
+------------|-------------------------------------|---------------------------------------------------|
+VELOCIDAD   |Lento, ya que requiere revisión      |Rápido, ya que la IA valida los formularios        |
+            |manual de cada formulario.           | automáticamente en tiempo real.                   |
+------------|-------------------------------------|-------------------------------------------------- |
+PRECISION   |Errores humanos,como omitir          |Alta precisión, ya que la IA sigue reglas estrictas| 
+            |validaciones                         |y detecta errores de  manera consistente.          | 
+------------|-------------------------------------|---------------------------------------------------|
+EFICIENCIA  |Requiere un equipo de personas para  |Reduce la necesidad de intervención humana,        |
+            |revisar y corregir cada formulario.  |mejorando la eficiencia operativa.                 | 
+------------|-------------------------------------|---------------------------------------------------|
+ESCABILIDAD |Difícil de escalar sin aumentar      |Altamente escalable, la IA puede manejar grandes   |
+            |significativamente el personal.      |volúmenes de formularios.                          |
+------------|-------------------------------------|---------------------------------------------------|
+COSTOS      |Costos laborales altos debido a la   |Menores costos operativos al automatizar           |
+            |necesidad de empleados humanos.      |el proceso de validación.                          |
+------------------------------------------------------------------------------------------------------|
 ## Reflexión Personal
 Este ejercicio de analizar la automatización de la validación de formularios mediante inteligencia artificial nos invita a reflexionar sobre cómo las tecnologías emergentes pueden transformar procesos tradicionales, haciendo que sean más rápidos, precisos y eficientes.
 
