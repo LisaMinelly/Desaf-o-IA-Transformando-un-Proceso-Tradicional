@@ -42,7 +42,7 @@ Reducción de Costos | Costos laborales más altos debido a la necesidad de empl
 Experiencia del Usuario | Los usuarios pueden tener que corregir manualmente los errores detectados. | Los usuarios reciben retroalimentación instantánea sobre errores y pueden corregirlos de inmediato.
 Consistencia | La revisión puede ser inconsistente, dependiendo de la interpretación de cada revisor. | Alta consistencia, ya que la IA aplica las mismas reglas de validación a todos los formularios.
 Tiempo de Respuesta | Los tiempos de respuesta son más largos debido a la validación manual. | Respuestas instantáneas o en tiempo real, mejorando la fluidez del proceso.
-Manejo de Errores Complejos | Errores complejos requieren intervención humana adicional, lo que ralentiza el proceso. | La IA puede detectar y sugerir correcciones automáticas para errores complejos como transposiciones de números o fechas incorrectas.
+Manejo de Errores Complejos | Errores complejos requieren intervención humana adicional, lo que ralentiza el proceso. | La IA puede detectar y sugerir correcciones automáticas para errores complejos como transposiciones de números o direcciones incorrectas.
 
 ## Reflexión Personal
 Este ejercicio de analizar la automatización de la validación de formularios mediante inteligencia artificial nos invita a reflexionar sobre cómo las tecnologías emergentes pueden transformar procesos tradicionales, haciendo que sean más rápidos, precisos y eficientes.
